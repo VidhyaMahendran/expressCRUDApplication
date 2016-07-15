@@ -1,9 +1,7 @@
 # Installation
 
-`
-cd express expressCRUDApplication
-$ npm install
-`
+`cd express expressCRUDApplication`
+`$ npm install`
 
 ## Running the application
 
